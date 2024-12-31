@@ -4,8 +4,3 @@
 - [Custom gmail API](/email_replier_ELI/gmail_api_loader.py)
 - [Main Workflow](/email_replier_ELI/workflow.ipynb)
 
-## Format email
-## vectorize email
-## talk to emails
-
-# Agent 
